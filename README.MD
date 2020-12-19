@@ -1,7 +1,7 @@
 # Professional README Generator
 Create a command-line application that generates professional README files. 
 #
-Deployment Link: https://tbell-wog.github.io/weather-dashboard/
+Video Link: https://tbell-wog.github.io/weather-dashboard/
 
 ## Table of Contents
 * [Project Description](#description)
@@ -15,11 +15,9 @@ Deployment Link: https://tbell-wog.github.io/weather-dashboard/
 Creating an app can be a time consuming task and you should be able to devote as much time to it as possible without having to worry about any other additional steps. Therefore, the professional README generator will generate a README for you in the command line. To invoke the app, you simple have to type 'node index.js' in your terminal. The user will answer a list of prompts, such as the project name, description, install instructions, usage, contributors, tests, liscenses, and their contact information. Then the application will generate a README file for them.
 
 # Built With
-The code quiz web application was created with these coding languages:
+The Readme Generator command-line application was created with these coding languages:
 * JavaScript
 * jQuery
-
-It was also built with the Open Weather Map API
 
 # Contributing
 1. Fork it!
@@ -39,4 +37,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Tamira Bell - https://github.com/tbell-woG
 
-Github Link: https://https://github.com/tbell-woG/day-planner
+Github Link: https://github.com/tbell-woG/professional-readme-generator

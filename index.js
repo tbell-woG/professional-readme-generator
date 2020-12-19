@@ -52,7 +52,7 @@ const promptUser = () =>
         },
         {
             type: "input",
-            message: "How can users ask you qeustions if they have an issue with your project? Tell them to write their questions and contact you.",
+            message: "How can users ask you questions if they have an issue with your project? Tell them to write their questions and contact you using your information below.",
             name: "questions",
         },
         {
