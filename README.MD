@@ -16,7 +16,7 @@ Creating an app can be a time consuming task and you should be able to devote as
 #
 Click on the image below to watch the video.
 
-[![Watch the video](readme-generator-photo.png)](https://drive.google.com/file/d/1OpV6Pt9C5JMMY5PY6d2i2C2siDhu__ji/view?usp=sharing)
+[![Watch the video](./assets/readme-generator-photo.png)](https://drive.google.com/file/d/1OpV6Pt9C5JMMY5PY6d2i2C2siDhu__ji/view?usp=sharing)
 
 # Built With
 The Readme Generator command-line application was created with these coding languages:
